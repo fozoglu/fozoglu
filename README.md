@@ -16,7 +16,7 @@
 <a href="https://www.kaggle.com/fozoglu" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/fozoglu" target="_blank">
+<a href="https://medium.com/@fozoglu" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
@@ -48,7 +48,7 @@ Since 2014 I've been dedicated to iOS development and have honed my skills in Ob
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/fozoglu/fozoglu/blob/20c011a813e248ddff4518bed65e9f669e5f826a/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
