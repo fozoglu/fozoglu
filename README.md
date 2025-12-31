@@ -39,7 +39,7 @@ Since 2014 I've been dedicated to iOS development and have honed my skills in Ob
 - 🌱 I’m currently learning SwiftUI, Deep Learning  
   
 
-- 🎓 I'm currently working on my PhD thesis in Deep Learning at Yildiz Technical University.  
+- 🎓 I have completed my PhD in Deep Learning at Yildiz Technical University in 2024. [Published article](https://www.mdpi.com/2551194)  
   
 
 - ✍️ In my free time, I enjoy reading books and writing blog posts. [fozoglu.me](https://fozoglu.me)  
